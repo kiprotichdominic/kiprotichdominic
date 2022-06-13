@@ -37,6 +37,15 @@
 </a>
 </p>
 
+
+<h2 align="center">GitHub Stats</h2>
+<p align="center">
+<a align="center"href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kiprotichdominic&count_private=true&show_icons=true&theme=cobalt">
+  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=kiprotichdominic&">
+</a>
+</p>
+  <br>
+
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3><br>
 
 <p align="center">
