@@ -4,9 +4,9 @@
 <h3> &nbsp;🧍 About Me </h3>
 &nbsp; I am a software engineer, currently mastering Javascript with aim of becoming a subject matter expert in ReactJS.
 
-- 🔭 I’m currently working on Javascript(React),Ruby,Django
-- 🌱 I’m currently learning Javascript(React),Ruby
-- 👯 I’m looking to collaborate on Javascript
+- 🔭 I’m currently working on Javascript(React(Remix/NextJS)),Django,Django Rest Framework
+- 🌱 I’m currently learning Javascript(React(Remix/NextJS))
+- 👯 I’m looking to collaborate on Javascript,Django
 - 💬 Ask me about Javascript and API's
 - ⚡ Fun fact: Software activates my brain cells, talk anything software and i am in.
 
