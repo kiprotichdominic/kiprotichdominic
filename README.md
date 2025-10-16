@@ -5,9 +5,9 @@
 &nbsp; I am a software engineer, currently mastering Javascript with aim of becoming a subject matter expert in ReactJS.
 
 - 🔭 I’m currently working on Javascript(React(Remix/NextJS)),Django,Django Rest Framework
-- 🌱 I’m currently learning Javascript(React(Remix/NextJS))
-- 👯 I’m looking to collaborate on Javascript,Django
-- 💬 Ask me about Javascript and API's
+- 🌱 I’m currently building with Javascript/Typescript(React(NextJS))
+- 👯 I’m looking to collaborate on Javascript/Typescript,Django
+- 💬 Ask me about Javascript/Typescript and API's
 - ⚡ Fun fact: Software activates my brain cells, talk anything software and i am in.
 
 
